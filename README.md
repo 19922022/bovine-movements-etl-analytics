@@ -135,19 +135,19 @@ El dashboard permite analizar:
 
 # Vista general del dashboard
 
-![Dashboard](Dashboard\screenshots\dashboard_overview.jpg.jpg)
+![Dashboard](Dashboard\screenshots\dashboard_overview.jpg)
 
 ---
 
 # Distribución geográfica de movimientos bovinos
 
-![Mapa](Dashboard/screenshots/mapa_movimientos_provincias.jpg.jpg)
+![Mapa](Dashboard/screenshots/mapa_movimientos_provincias.jpg)
 
 ---
 
 # Evolución mensual de movimientos
 
-![Tendencia](Dashboard/screenshots/evolucion_mensual.jpg.jpg)
+![Tendencia](Dashboard/screenshots/evolucion_mensual.jpg)
 
 ---
 
